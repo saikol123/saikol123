@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saikol123
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me saikolasani100@gmail.com
 
